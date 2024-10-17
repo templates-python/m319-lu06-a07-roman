@@ -1,19 +1,19 @@
 [
   {
-    "name": "Pytest",
-    "function": "Pytest",
+    "name": "test_lists",
+    "function": "test_lists",
     "timeout": 10,
     "points": 2
   },
   {
-    "name": "Pytest",
-    "function": "Pytest",
+    "name": "test_roman1",
+    "function": "test_roman1",
     "timeout": 10,
     "points": 2
   },
   {
-    "name": "Pytest",
-    "function": "Pytest",
+    "name": "test_roman2",
+    "function": "test_roman2",
     "timeout": 10,
     "points": 2
   }
